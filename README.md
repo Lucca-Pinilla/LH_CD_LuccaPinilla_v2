@@ -31,15 +31,15 @@ jupyter notebook LH_CD_LuccaPinilla.ipynb
 Siga os passos descritos no notebook para carregar os dados, treinar os modelos e avaliar a performance dos algoritmos.
 
 ## 🧩 Estrutura do Projeto
-LH_CD_LuccaPinilla.ipynb: Notebook principal com o código de todas as etapas do projeto.
+* LH_CD_LuccaPinilla.ipynb: Notebook principal com o código de todas as etapas do projeto.
 
-requisitos.txt: Lista de pacotes necessários para a execução do projeto e suas versões.
+* requisitos.txt: Lista de pacotes necessários para a execução do projeto e suas versões.
 
-teste_indicium_precificacao.csv: Dataset contendo os dados dos apartamentos.
+* teste_indicium_precificacao.csv: Dataset contendo os dados dos apartamentos.
 
-LH_CD_LuccaPinilla-EDA.pdf: Arquivo em pdf mostrando a análise exploratória dos dados.
+* LH_CD_LuccaPinilla-EDA.pdf: Arquivo em pdf mostrando a análise exploratória dos dados.
 
-lgbm_model.pkl: Modelo desenvolvido em LightGBM com o melhor desempenho.
+* lgbm_model.pkl: Modelo desenvolvido em LightGBM com o melhor desempenho.
 
 ## 📚 Observações
 Este projeto foi elaborado exclusivamente para fins de avaliação técnica.

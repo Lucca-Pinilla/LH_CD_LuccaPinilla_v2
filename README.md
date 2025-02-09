@@ -10,11 +10,13 @@ Para instalar todas as bibliotecas necessárias com suas respectivas versões, s
 Clone este repositório:
 
 git clone https://github.com/seu_usuario/LH_CD_LuccaPinilla_v2.git
-cd seu_repositorio
+cd LH_CD_LuccaPinilla_v2
 
 Crie um ambiente virtual (opcional, mas recomendado):
 python -m venv venv
+
 source venv/bin/activate  # Para Linux/Mac
+
 .\venv\Scripts\activate  # Para Windows
 
 Instale os pacotes listados no arquivo requisitos.txt:
